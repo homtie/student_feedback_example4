@@ -1,0 +1,6 @@
+{
+  "name": "Echo - Premium Feedback & Analytics",
+  "description": "A refined college course evaluation and faculty analytics platform featuring interactive multi-step surveys, smart feedback, sentiment trend tracking, and live satisfaction metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
